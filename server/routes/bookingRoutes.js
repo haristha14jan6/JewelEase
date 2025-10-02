@@ -1,5 +1,5 @@
 import express from "express";
-import { changeBookingStatus, checkAvailabilityofJewel, createBooking, getOwnerBookings, getUserBookings } from "../controller/bookingcontroller.js";
+import { changeBookingStatus, checkAvailabilityofJewel, createBooking, getOwnerBookings, getUserBookings } from "../controller/bookingController.js";
 const bookingRouter=express.Router();
 import { protect } from "../middleware/auth.js"
 

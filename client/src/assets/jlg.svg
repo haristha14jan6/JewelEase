@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-gem">
+  <polygon points="6 3 18 3 22 9 12 21 2 9"></polygon>
+  <path d="M12 21 9 9 3 9"></path>
+  <path d="M22 9h-6l-4 12"></path>
+</svg>
